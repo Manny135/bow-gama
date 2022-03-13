@@ -1,1 +1,1 @@
-# bow-gama
+# Project-Template BB2
